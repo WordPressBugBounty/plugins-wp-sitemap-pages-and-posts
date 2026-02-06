@@ -1,0 +1,1 @@
+# plugins-wp-sitemap-pages-and-posts
